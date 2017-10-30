@@ -1,0 +1,24 @@
+{
+    "name": "roseknife/notorm",
+    "description": "基于NotORM类库的优化版本，专门用于web框架",
+    "keywords": ["web", "notorm", "roseknie"],
+    "homepage": "http://www.shendazhe.com",
+    "license" : "GPL-3.0+",
+    "authors": [
+        {
+            "name": "RoseKnife Hua",
+            "email": "roseknife@qq.com",
+            "homepage" : "http://www.shendazhe.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "RoseKnife\\NotORM\\": "src"
+        }
+    }
+
+}
