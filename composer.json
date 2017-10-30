@@ -1,5 +1,6 @@
 {
     "name": "roseknife/notorm",
+	"type": "library",
     "description": "基于NotORM类库的优化版本，专门用于web框架",
     "keywords": ["web", "notorm", "roseknie"],
     "homepage": "http://www.shendazhe.com",
